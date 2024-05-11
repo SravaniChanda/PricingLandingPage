@@ -1,0 +1,122 @@
+.container {
+  background-color: rgb(65, 8, 117);
+  height: 100vh;
+  width: 100vw;
+}
+
+.navcolor {
+  background-color: #C7D3D4FF;
+}
+
+#navItem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+
+#navItem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+
+#navItem3 {
+  color: green;
+  font-family: "Roboto";
+}
+
+.logo {
+  height: 50px;
+  width: 200px;
+}
+
+.main-heading {
+  color: white;
+  margin-top: 50px;
+
+}
+
+.main-card-container {
+  height: 400px;
+  width: 100%;
+  margin-right: 10px;
+}
+
+.card1 {
+  background-color: white;
+
+  margin-top: 100px;
+  padding-top: 100px;
+  padding: 40px;
+  font-family: Roboto;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+.sub-head1 {
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.price1 {
+  color: #e85dc5;
+  font-size: 40px;
+}
+
+.card2 {
+  background-color: white;
+
+  margin-top: 100px;
+  padding-top: 100px;
+  padding: 40px;
+  font-family: Roboto;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+.sub-head2 {
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.price2 {
+  color: #cc415e;
+  font-size: 40px;
+}
+
+.card3 {
+  background-color: white;
+
+  margin-top: 100px;
+  padding-top: 100px;
+  padding: 40px;
+  font-family: Roboto;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+.sub-head3 {
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.price3 {
+  color: #008b8b;
+  font-size: 40px;
+}
+
+.button1 {
+  border-radius: 10px;
+}
+
+.button2 {
+  border-radius: 10px;
+}
+
+.button3 {
+  border-radius: 10px;
+}
